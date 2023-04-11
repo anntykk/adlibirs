@@ -14,6 +14,10 @@ This is meant to be a learning project and should not be seen as a final product
 Install Python and MySQL (if not installed).
 Download Chrome driver.
 
-### Run project in Python
-Set up project directories and run modules.
+### Run project
+Set up project directories 
+
+Set up database with .sql file
+
+Run Python modules with .py files
 
