@@ -12,6 +12,7 @@ This is meant to be a learning project and should not be seen as a final product
 
 ### Install programs
 Install Python and MySQL (if not installed).
+Download Chrome driver.
 
 ### Run project in Python
 Set up project directories and run modules.
