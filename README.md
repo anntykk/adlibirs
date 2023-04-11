@@ -1,4 +1,4 @@
-# adlibris
+# Random book generator
 
 ## About this project
 This is a side-project I came up with in order to learn more about python, web scraping, building data pipelines, modelling data and interacting with a database.
@@ -6,7 +6,7 @@ The main purpose is create a random book generator in order to select the next b
 adlibris.se. It then cleans and models the data and inserts it to a MySQL database. From the database it then selects a random book, based on specified filter(s). 
 
 ## Caveats
-This is meant to be a learning project and should not be seen as a final product. At this point it achieves main purpose but there are improvements to the code that could be done in order to make it cleaner and run more efficiently.
+This is meant to be a learning project and should not be seen as a final product. At this point it achieves the main purpose but there are improvements to the code that could be done in order to make it cleaner (for example reducing repetitions) and run more efficiently.
 
 ## Get started
 
